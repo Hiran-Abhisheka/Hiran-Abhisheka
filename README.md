@@ -91,12 +91,12 @@ const hiran = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hiran-Abhisheka&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Hiran's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiran-Abhisheka&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hiran-Abhisheka&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Hiran's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hiran-Abhisheka&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiran-Abhisheka&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="Hiran's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Hiran-Abhisheka&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="Hiran's GitHub Streak" />
 </div>
 
 ---
