@@ -138,7 +138,11 @@ const hiran = {
 ## 🎵 Music & Inspiration
 
 <div align="center">
-  
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+
 🎧 **Currently vibing to:** Code music playlists and lo-fi beats  
 🎼 **Favorite coding genres:** Electronic, Ambient, Classical  
 🎵 **Productivity boost:** Instrumental music while debugging
