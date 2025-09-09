@@ -147,21 +147,6 @@ const hiran = {
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/Hiran-Abhisheka/Hiran-Abhisheka/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<!-- Alternative Snake Animation -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> -->
-
----
-
 <div align="center">
   
 ### 💖 Thanks for visiting my profile!
