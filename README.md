@@ -117,21 +117,6 @@ const hiran = {
 
 ---
 
-## 💡 Featured Projects
-
-<div align="center">
-
-### 🌟 [Portfolio Website](https://hiranabhisheka.netlify.app/)
-
-_A modern, responsive portfolio showcasing my projects and skills_
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiran-Abhisheka&repo=portfolio&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Hiran-Abhisheka/portfolio2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiran-Abhisheka&repo=web-development&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Hiran-Abhisheka/portfolio2)
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - 🔭 Working on **Personal Portfolio Website** → [Live Demo](https://hiranabhisheka.netlify.app/)
