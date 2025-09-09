@@ -120,7 +120,11 @@ const hiran = {
 ## 💡 Featured Projects
 
 <div align="center">
-  
+
+### 🌟 [Portfolio Website](https://hiranabhisheka.netlify.app/)
+
+_A modern, responsive portfolio showcasing my projects and skills_
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiran-Abhisheka&repo=portfolio&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Hiran-Abhisheka/portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiran-Abhisheka&repo=web-development&theme=dark&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Hiran-Abhisheka/web-development)
 
@@ -130,7 +134,7 @@ const hiran = {
 
 ## 🎯 Current Goals
 
-- 🔭 Working on **Personal Portfolio Website**
+- 🔭 Working on **Personal Portfolio Website** → [Live Demo](https://hiranabhisheka.netlify.app/)
 - 🌱 Learning **Advanced React Patterns** and **TypeScript**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Exploring **Full-Stack Development** opportunities
@@ -146,19 +150,30 @@ const hiran = {
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Music & Inspiration
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
+  
+🎧 **Currently vibing to:** Code music playlists and lo-fi beats  
+🎼 **Favorite coding genres:** Electronic, Ambient, Classical  
+🎵 **Productivity boost:** Instrumental music while debugging
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hiran-Abhisheka/Hiran-Abhisheka/output/snake.svg" alt="Snake animation" />
+  
+![Snake animation](https://github.com/Hiran-Abhisheka/Hiran-Abhisheka/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+<!-- Alternative Snake Animation -->
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div> -->
 
 ---
 
