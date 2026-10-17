@@ -233,14 +233,14 @@ const PROJECTS = [
     name: "campus-shuttle",
     lang: "TypeScript",
     stars: 2,
-    desc: "Campus shuttle tracking platform with live routes and scheduling",
+    desc: "React + TS shuttle platform — admin, driver and student dashboards, live tracking",
     url: "https://github.com/Hiran-Abhisheka/campus-shuttle",
   },
   {
     name: "MeritMatch",
     lang: "C#",
     stars: 2,
-    desc: "Scholarship matching system built on .NET with a relational database",
+    desc: "ASP.NET Core 8 research project management for students and supervisors",
     url: "https://github.com/Hiran-Abhisheka/MeritMatch",
   },
   {
@@ -304,7 +304,7 @@ const TIMELINE = [
 const STACK = [
   ["Languages", ["TypeScript", "JavaScript", "Python", "C#", "Java", "Dart", "C", "C++", "SQL"]],
   ["Front-End", ["React", "Next.js", "Tailwind CSS", "Vite", "GSAP", "HTML5", "CSS3"]],
-  ["Back-End & Data", ["Node.js", "Express", ".NET", "PHP", "MySQL", "REST"]],
+  ["Back-End & Data", ["Node.js", "Express", "ASP.NET Core", "SQL Server", "REST", "Firebase"]],
   ["Tooling", ["Git", "GitHub", "VS Code", "Figma", "Photoshop", "Vercel", "Netlify"]],
 ];
 

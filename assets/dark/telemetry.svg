@@ -8,8 +8,8 @@
 <text x="690" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">9</text>
 <text x="40" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#8b949e">JavaScript</text>
 <rect x="200" y="79" width="470" height="14" rx="0" fill="track"></rect>
-<rect x="200" y="79" width="261.11111111111114" height="14" rx="0" fill="#f0f6fc"><animate attributeName="width" from="0" to="261.11111111111114" dur="0.7s" begin="0.09s" fill="freeze"/></rect>
-<text x="690" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">5</text>
+<rect x="200" y="79" width="313.3333333333333" height="14" rx="0" fill="#f0f6fc"><animate attributeName="width" from="0" to="313.3333333333333" dur="0.7s" begin="0.09s" fill="freeze"/></rect>
+<text x="690" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">6</text>
 <text x="40" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#8b949e">Python</text>
 <rect x="200" y="109" width="470" height="14" rx="0" fill="track"></rect>
 <rect x="200" y="109" width="208.88888888888889" height="14" rx="0" fill="#f0f6fc"><animate attributeName="width" from="0" to="208.88888888888889" dur="0.7s" begin="0.18s" fill="freeze"/></rect>

@@ -44,14 +44,14 @@
 <text x="232" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">Node.js</text>
 <rect x="302.05" y="169" width="74.05000000000001" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
 <text x="314.05" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">Express</text>
-<rect x="384.1" y="169" width="52.6" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
-<text x="396.1" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">.NET</text>
-<rect x="444.70000000000005" y="169" width="45.45" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
-<text x="456.70000000000005" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">PHP</text>
-<rect x="498.15000000000003" y="169" width="59.75" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
-<text x="510.15000000000003" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">MySQL</text>
-<rect x="565.9000000000001" y="169" width="52.6" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
-<text x="577.9000000000001" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">REST</text>
+<rect x="384.1" y="169" width="109.80000000000001" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
+<text x="396.1" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">ASP.NET Core</text>
+<rect x="501.90000000000003" y="169" width="95.5" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
+<text x="513.9000000000001" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">SQL Server</text>
+<rect x="605.4000000000001" y="169" width="52.6" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
+<text x="617.4000000000001" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">REST</text>
+<rect x="666.0000000000001" y="169" width="81.2" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>
+<text x="678.0000000000001" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#f0f6fc">Firebase</text>
 <line x1="40" y1="208" x2="960" y2="208" stroke="#30363d" stroke-width="1" opacity="0.5"/>
 <text x="40" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#8b949e" letter-spacing="1.6">TOOLING</text>
 <rect x="220" y="221" width="45.45" height="24" rx="0" fill="none" stroke="#30363d" stroke-width="1"></rect>

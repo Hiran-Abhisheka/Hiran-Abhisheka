@@ -12,14 +12,14 @@
 <line x1="40" y1="106" x2="960" y2="106" stroke="#30363d" stroke-width="1" opacity="0.5"/>
 <text x="40" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#8b949e">02</text>
 <text x="80" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#f0f6fc">campus-shuttle</text>
-<text x="80" y="139" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#8b949e">Campus shuttle tracking platform with live routes and scheduling</text>
+<text x="80" y="139" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#8b949e">React + TS shuttle platform — admin, driver and student dashboards, live tracking</text>
 <text x="700" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#8b949e" letter-spacing="1.2">TYPESCRIPT</text>
 <text x="860" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#8b949e">* 2</text>
 <text x="960" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">open →</text>
 <line x1="40" y1="152" x2="960" y2="152" stroke="#30363d" stroke-width="1" opacity="0.5"/>
 <text x="40" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#8b949e">03</text>
 <text x="80" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#f0f6fc">MeritMatch</text>
-<text x="80" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#8b949e">Scholarship matching system built on .NET with a relational database</text>
+<text x="80" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#8b949e">ASP.NET Core 8 research project management for students and supervisors</text>
 <text x="700" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#8b949e" letter-spacing="1.2">C#</text>
 <text x="860" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#8b949e">* 2</text>
 <text x="960" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">open →</text>
