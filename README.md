@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Hiran-Abhisheka.png?size=140" alt="Hiran Abhisheka" width="140" height="140" style="border-radius:50%;" />
+<img src="https://github.com/Hiran-Abhisheka.png?size=140" alt="Hiran Abhisheka" width="140" height="140" />
 
 # Hiran Abhisheka
 
@@ -41,21 +41,25 @@ I've spent the last year building web projects with modern JavaScript tooling â€
 ## GitHub at a glance
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hiran-Abhisheka&show_icons=true&count_private=true&hide_border=true&border_radius=12&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="GitHub stats" />
-  <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hiran-Abhisheka&layout=compact&hide_border=true&border_radius=12&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hiran-Abhisheka&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="GitHub streak" />
-</div>
+<!-- Overview: totals, commits, PRs, issues -->
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiran-Abhisheka&theme=github_dark" alt="Profile details" />
 
-<details>
-<summary>Contribution graph</summary>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiran-Abhisheka&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+<!-- Row 2 -->
+<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiran-Abhisheka&theme=github_dark" alt="Stats" />
+<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiran-Abhisheka&theme=github_dark" alt="Most commit language" />
+
+<!-- Row 3 -->
+<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiran-Abhisheka&theme=github_dark" alt="Repos per language" />
+<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiran-Abhisheka&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+
+<!-- Streak -->
+<img width="700" src="https://streak-stats.demolab.com?user=Hiran-Abhisheka&theme=dark&hide_border=true&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=767676" alt="GitHub streak" />
+
+<!-- Contribution activity -->
+<img width="830" src="https://activity-graph.vercel.app/graph?username=Hiran-Abhisheka&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
 </div>
-</details>
 
 ---
 
@@ -75,5 +79,5 @@ I've spent the last year building web projects with modern JavaScript tooling â€
 <div align="center">
   <sub>Built with â˜• and curiosity Â· Thanks for stopping by</sub>
 
-  <img src="https://visitcount.itsvg.in/api?id=Hiran-Abhisheka&icon=2&color=6&pretty=true" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Hiran-Abhisheka&color=A9FEF7&label=VISITORS&labelColor=0d1117" alt="Visitor count" />
 </div>
