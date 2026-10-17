@@ -4,7 +4,7 @@
 
 <a href="https://hiranabhisheka.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square" alt="Portfolio"/></picture></a>
 <a href="https://linkedin.com/in/hiran-abhisheka-3bb78b303"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square" alt="LinkedIn"/></picture></a>
-<a href="https://instagram.com/mr_lofyy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square" alt="Instagram"/></picture></a>
+<a href="https://www.instagram.com/hiran_abhisheka/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square" alt="Instagram"/></picture></a>
 <a href="https://discord.gg/abhi3218"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DISCORD-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/DISCORD-ffffff?style=flat-square" alt="Discord"/></picture></a>
 <a href="https://github.com/Hiran-Abhisheka"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square" alt="GitHub"/></picture></a>
 
