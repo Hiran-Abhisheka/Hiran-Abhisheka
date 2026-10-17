@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="544" viewBox="0 0 1000 544" role="img">
-<rect x="0.5" y="0.5" width="999" height="543" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="596" viewBox="0 0 1000 596" role="img">
+<rect x="0.5" y="0.5" width="999" height="595" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
 <text x="40" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" letter-spacing="2.5">EDUCATION</text>
 <text x="160" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#1f2328">NSBM Green University — BSc (Hons) Software Engineering, in progress</text>
 <line x1="40" y1="46" x2="960" y2="46" stroke="#d0d7de" stroke-width="1"/>
 <text x="40" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" letter-spacing="2.5">BUILD HISTORY</text>
-<line x1="52" y1="92" x2="52" y2="508" stroke="#d0d7de" stroke-width="1" opacity="0.7"/>
+<line x1="52" y1="92" x2="52" y2="560" stroke="#d0d7de" stroke-width="1" opacity="0.7"/>
 <circle cx="52" cy="92" r="4" fill="#1f2328" opacity="1"/>
 <text x="80" y="96" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">2024.07</text>
 <text x="160" y="96" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">First repository</text>
@@ -38,7 +38,11 @@
 <text x="160" y="460" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">Widening the stack</text>
 <text x="160" y="480" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">MeritMatch (C#) · kuppifeed (Flutter) — peak month, 107 contributions</text>
 <circle cx="52" cy="508" r="4" fill="#1f2328" opacity="1"/>
-<text x="80" y="512" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">2026.10</text>
-<text x="160" y="512" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">Simulation &amp; evolution</text>
-<text x="160" y="532" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">emergent — neural-network artificial life, pure TypeScript engine</text>
+<text x="80" y="512" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">2026.06</text>
+<text x="160" y="512" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">Private &amp; client builds</text>
+<text x="160" y="532" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">business sites and products built outside public view</text>
+<circle cx="52" cy="560" r="4" fill="#1f2328" opacity="1"/>
+<text x="80" y="564" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">2026.10</text>
+<text x="160" y="564" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">Simulation &amp; evolution</text>
+<text x="160" y="584" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">emergent — neural-network artificial life, pure TypeScript engine</text>
 </svg>

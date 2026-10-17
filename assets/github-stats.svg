@@ -1,25 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img">
-<rect x="0.5" y="0.5" width="999" height="249" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img">
+<rect x="0.5" y="0.5" width="999" height="339" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
 <text x="40" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" letter-spacing="2.5">DEVELOPER TELEMETRY</text>
-<text x="960" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">generated from public GitHub activity</text>
+<text x="960" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">public + private, generated from the GitHub API</text>
 <line x1="40" y1="44" x2="960" y2="44" stroke="#d0d7de" stroke-width="1"/>
-<text x="40" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">489</text>
+<text x="40" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">646</text>
 <text x="40" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">CONTRIBUTIONS ALL TIME</text>
 <line x1="313" y1="58" x2="313" y2="106" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
-<text x="353" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">400</text>
-<text x="353" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">IN THE LAST YEAR</text>
+<text x="353" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">489</text>
+<text x="353" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">PUBLIC CONTRIBUTIONS</text>
 <line x1="626" y1="58" x2="626" y2="106" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
-<text x="666" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">75</text>
-<text x="666" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">ACTIVE DAYS</text>
-<text x="40" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">0</text>
-<text x="40" y="208" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">CURRENT STREAK</text>
+<text x="666" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">157</text>
+<text x="666" y="120" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">PRIVATE CONTRIBUTIONS</text>
+<text x="40" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">49</text>
+<text x="40" y="208" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">REPOSITORIES</text>
 <line x1="313" y1="146" x2="313" y2="194" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
-<text x="353" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">5</text>
-<text x="353" y="208" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">LONGEST STREAK</text>
+<text x="353" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">30</text>
+<text x="353" y="208" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">PUBLIC</text>
 <line x1="626" y1="146" x2="626" y2="194" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
-<text x="666" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">31</text>
-<text x="666" y="208" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">BEST DAY · 2026-10-10</text>
-<line x1="40" y1="210" x2="960" y2="210" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
-<text x="40" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">followers 10  ·  following 10  ·  stars 14  ·  member since 2024</text>
-<text x="960" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">Hiran-Abhisheka</text>
+<text x="666" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">19</text>
+<text x="666" y="208" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">PRIVATE</text>
+<text x="40" y="276" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">75</text>
+<text x="40" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">ACTIVE DAYS · PUBLIC</text>
+<line x1="313" y1="234" x2="313" y2="282" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<text x="353" y="276" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">5</text>
+<text x="353" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">LONGEST STREAK · PUBLIC</text>
+<line x1="626" y1="234" x2="626" y2="282" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<text x="666" y="276" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" font-weight="700" fill="#1f2328">31</text>
+<text x="666" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">BEST DAY · 2026-10-10</text>
+<line x1="40" y1="300" x2="960" y2="300" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<text x="40" y="322" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">followers 10  ·  following 10  ·  stars 14  ·  member since 2024</text>
+<text x="960" y="322" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">Hiran-Abhisheka</text>
 </svg>

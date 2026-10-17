@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="302" viewBox="0 0 1000 302" role="img">
-<rect x="0.5" y="0.5" width="999" height="301" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img">
+<rect x="0.5" y="0.5" width="999" height="359" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
 <line x1="40" y1="70" x2="960" y2="70" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
 <circle cx="46" cy="38" r="3.5" fill="#1f2328" opacity="1"/>
 <text x="64" y="43" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328">Web &amp; Front-End</text>
@@ -20,4 +20,9 @@
 <text x="64" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328">Mobile</text>
 <text x="64" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">kuppifeed</text>
 <text x="960" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">Flutter / Dart builds for Android, iOS, macOS and web</text>
+<line x1="40" y1="302" x2="960" y2="302" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<circle cx="46" cy="270" r="3.5" fill="#1f2328" opacity="0.45"/>
+<text x="64" y="275" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328" opacity="0.8">Private Repositories</text>
+<text x="64" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">19 repositories not shown publicly</text>
+<text x="960" y="275" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">newest push 2026-10-17</text>
 </svg>

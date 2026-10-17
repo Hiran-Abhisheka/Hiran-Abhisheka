@@ -7,13 +7,14 @@
 <text x="976" y="24" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">hiran-abhisheka@github:~$ whoami</text>
 <text x="40" y="96" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="700" fill="#1f2328" letter-spacing="3">HIRAN ABHISHEKA</text>
 <rect x="40" y="108" width="64" height="3" rx="0" fill="#1f2328"></rect>
-<text x="40" y="140" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#59636e" letter-spacing="0.5">software engineering student  ·  front-end developer  ·  sri lanka</text>
+<text x="40" y="140" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#59636e">software engineering student  ·  front-end developer  ·  sri lanka</text>
 <text x="40" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#59636e">building interfaces for the web since 2024</text>
 <rect x="398.8" y="156" width="9" height="16" rx="0" fill="#1f2328"><animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
-<text x="960" y="74" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#1f2328" text-anchor="end">30</text>
+<text x="960" y="74" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#1f2328" text-anchor="end">49</text>
 <text x="960" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" letter-spacing="2">REPOSITORIES</text>
-<text x="960" y="130" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#1f2328" text-anchor="end">489</text>
-<text x="960" y="148" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" letter-spacing="2">CONTRIBUTIONS</text>
-<text x="960" y="186" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open to opportunities · @Hiran-Abhisheka</text>
-<line x1="780" y1="56" x2="780" y2="196" stroke="#d0d7de" stroke-width="1" opacity="0.7"/>
+<text x="960" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">30 public · 19 private</text>
+<text x="960" y="146" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#1f2328" text-anchor="end">646</text>
+<text x="960" y="164" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" letter-spacing="2">CONTRIBUTIONS</text>
+<text x="960" y="184" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">489 public · 157 private</text>
+<line x1="750" y1="56" x2="750" y2="196" stroke="#d0d7de" stroke-width="1" opacity="0.7"/>
 </svg>

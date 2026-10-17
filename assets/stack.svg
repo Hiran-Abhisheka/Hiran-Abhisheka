@@ -22,6 +22,8 @@
 <text x="720.55" y="81" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">C++</text>
 <rect x="762" y="65" width="45.45" height="24" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
 <text x="774" y="81" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">SQL</text>
+<rect x="815.45" y="65" width="45.45" height="24" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<text x="827.45" y="81" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">PHP</text>
 <line x1="40" y1="104" x2="960" y2="104" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
 <text x="40" y="134" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.6">FRONT-END</text>
 <rect x="220" y="117" width="59.75" height="24" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>

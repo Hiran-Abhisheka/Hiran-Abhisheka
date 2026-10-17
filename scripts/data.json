@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-10-17",
+  "repos": {
+    "public": 30,
+    "private": 19,
+    "total": 49
+  },
+  "stars": 14,
+  "followers": 10,
+  "following": 10,
+  "contributions": {
+    "public": 489,
+    "private": 157,
+    "total": 646,
+    "byYear": {
+      "2024": 46,
+      "2025": 51,
+      "2026": 392
+    },
+    "privateByYear": {
+      "2024": 5,
+      "2025": 6,
+      "2026": 146
+    }
+  },
+  "lastYear": {
+    "public": 400,
+    "private": 146,
+    "total": 546
+  },
+  "activeDays": 75,
+  "currentStreak": 3,
+  "longestStreak": 5,
+  "bestDay": {
+    "date": "2026-10-10",
+    "count": 31
+  },
+  "months": {
+    "2025-11": 6,
+    "2025-12": 3,
+    "2026-01": 0,
+    "2026-02": 22,
+    "2026-03": 22,
+    "2026-04": 107,
+    "2026-05": 77,
+    "2026-06": 27,
+    "2026-07": 15,
+    "2026-08": 27,
+    "2026-09": 9,
+    "2026-10": 86
+  },
+  "publicLanguages": [
+    [
+      "JavaScript",
+      6
+    ],
+    [
+      "TypeScript",
+      9
+    ],
+    [
+      "Other",
+      2
+    ],
+    [
+      "C#",
+      1
+    ],
+    [
+      "Dart",
+      1
+    ],
+    [
+      "HTML / CSS",
+      5
+    ],
+    [
+      "Python",
+      4
+    ]
+  ],
+  "privateAgg": {
+    "languages": [
+      [
+        "PHP",
+        1
+      ],
+      [
+        "JavaScript",
+        3
+      ],
+      [
+        "TypeScript",
+        13
+      ],
+      [
+        "CSS",
+        1
+      ],
+      [
+        "Other",
+        1
+      ]
+    ],
+    "newestPush": "2026-10-17",
+    "oldestCreated": "2024-08-18"
+  },
+  "languages": [
+    [
+      "TypeScript",
+      22
+    ],
+    [
+      "JavaScript",
+      9
+    ],
+    [
+      "Python",
+      4
+    ],
+    [
+      "HTML / CSS",
+      6
+    ],
+    [
+      "C#",
+      1
+    ],
+    [
+      "Dart",
+      1
+    ],
+    [
+      "PHP",
+      1
+    ],
+    [
+      "Other",
+      3
+    ]
+  ]
+}

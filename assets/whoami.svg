@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img">
-<rect x="0.5" y="0.5" width="999" height="189" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img">
+<rect x="0.5" y="0.5" width="999" height="199" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
 <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#1f2328">I'm a software engineering undergraduate at NSBM Green</text>
 <text x="40" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#1f2328">University in Sri Lanka, building for the web since 2024.</text>
-<text x="40" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#59636e">Most of my work is TypeScript and React — clean interfaces,</text>
-<text x="40" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#59636e">careful UX, and code that reads well. I like problems that</text>
-<text x="40" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#59636e">are part product, part engineering, and entirely mine.</text>
-<text x="660" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">30</text>
-<text x="660" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" letter-spacing="1.4">PUBLIC REPOSITORIES</text>
-<text x="825" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">489</text>
+<text x="40" y="108" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#59636e">Most of my work is TypeScript and React — clean interfaces,</text>
+<text x="40" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#59636e">careful UX, and code that reads well. A good part of it lives</text>
+<text x="40" y="156" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#59636e">in private repositories; the highlights are below.</text>
+<text x="660" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">49</text>
+<text x="660" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" letter-spacing="1.4">REPOSITORIES</text>
+<text x="825" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">646</text>
 <text x="825" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" letter-spacing="1.4">CONTRIBUTIONS</text>
-<text x="660" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">75</text>
-<text x="660" y="150" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" letter-spacing="1.4">ACTIVE DAYS</text>
+<text x="660" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">546</text>
+<text x="660" y="150" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" letter-spacing="1.4">IN THE LAST YEAR</text>
 <text x="825" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" fill="#1f2328">5</text>
 <text x="825" y="150" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" letter-spacing="1.4">LONGEST STREAK</text>
-<line x1="636" y1="30" x2="636" y2="160" stroke="#d0d7de" stroke-width="1"/>
+<line x1="636" y1="30" x2="636" y2="170" stroke="#d0d7de" stroke-width="1"/>
 </svg>
