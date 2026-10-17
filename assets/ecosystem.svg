@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="302" viewBox="0 0 1000 302" role="img">
+<rect x="0.5" y="0.5" width="999" height="301" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<line x1="40" y1="70" x2="960" y2="70" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<circle cx="46" cy="38" r="3.5" fill="#1f2328" opacity="1"/>
+<text x="64" y="43" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328">Web &amp; Front-End</text>
+<text x="64" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">emergent · nexus-website · LankaWild · Nomadic-Travel-Agency · Xenon-Space-Exploration</text>
+<text x="960" y="43" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">TypeScript / React interfaces, deployed on Vercel</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<circle cx="46" cy="96" r="3.5" fill="#1f2328" opacity="1"/>
+<text x="64" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328">Coursework &amp; Systems</text>
+<text x="64" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">MeritMatch · campus-shuttle · Utility-Management-System-UMS · WareHouseApp</text>
+<text x="960" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">C# / Java / Node systems, databases, full-stack coursework</text>
+<line x1="40" y1="186" x2="960" y2="186" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<circle cx="46" cy="154" r="3.5" fill="#1f2328" opacity="1"/>
+<text x="64" y="159" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328">AI &amp; Python Tools</text>
+<text x="64" y="180" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">AI-Assistant · AI_Partner · AI-Gf-Bf · To-Do-list</text>
+<text x="960" y="159" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">Voice assistants, automation scripts, computer vision</text>
+<line x1="40" y1="244" x2="960" y2="244" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+<circle cx="46" cy="212" r="3.5" fill="#1f2328" opacity="1"/>
+<text x="64" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#1f2328">Mobile</text>
+<text x="64" y="238" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">kuppifeed</text>
+<text x="960" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e" text-anchor="end">Flutter / Dart builds for Android, iOS, macOS and web</text>
+</svg>

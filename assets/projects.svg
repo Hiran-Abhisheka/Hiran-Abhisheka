@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="358" viewBox="0 0 1000 358" role="img">
+<rect x="0.5" y="0.5" width="999" height="357" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<text x="40" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" letter-spacing="2.5">SELECTED WORK</text>
+<text x="960" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">6 of 30 repositories</text>
+<line x1="40" y1="42" x2="960" y2="42" stroke="#d0d7de" stroke-width="1"/>
+<text x="40" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">01</text>
+<text x="80" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">emergent</text>
+<text x="80" y="93" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">2D artificial-life lab — evolution emerges from creature neural networks</text>
+<text x="700" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.2">TYPESCRIPT</text>
+<text x="860" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">—</text>
+<text x="960" y="76" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open →</text>
+<line x1="40" y1="106" x2="960" y2="106" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+<text x="40" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">02</text>
+<text x="80" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">campus-shuttle</text>
+<text x="80" y="139" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">Campus shuttle tracking platform with live routes and scheduling</text>
+<text x="700" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.2">TYPESCRIPT</text>
+<text x="860" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">* 2</text>
+<text x="960" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open →</text>
+<line x1="40" y1="152" x2="960" y2="152" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+<text x="40" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">03</text>
+<text x="80" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">MeritMatch</text>
+<text x="80" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">Scholarship matching system built on .NET with a relational database</text>
+<text x="700" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.2">C#</text>
+<text x="860" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">* 2</text>
+<text x="960" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open →</text>
+<line x1="40" y1="198" x2="960" y2="198" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+<text x="40" y="214" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">04</text>
+<text x="80" y="214" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">kuppifeed</text>
+<text x="80" y="231" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">Cross-platform Flutter app — native builds for Android, iOS and macOS</text>
+<text x="700" y="214" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.2">DART</text>
+<text x="860" y="214" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">* 1</text>
+<text x="960" y="214" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open →</text>
+<line x1="40" y1="244" x2="960" y2="244" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+<text x="40" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">05</text>
+<text x="80" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">ferrari-web-page</text>
+<text x="80" y="277" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">Cinematic React + GSAP experience with glassmorphism and scroll motion</text>
+<text x="700" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.2">JAVASCRIPT</text>
+<text x="860" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">* 1</text>
+<text x="960" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open →</text>
+<line x1="40" y1="290" x2="960" y2="290" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+<text x="40" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">06</text>
+<text x="80" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#1f2328">Eye_Tracking_Mouse_Controler</text>
+<text x="80" y="323" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#59636e">Webcam eye-tracking that drives the cursor; blink to click</text>
+<text x="700" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="1.2">PYTHON</text>
+<text x="860" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">* 1</text>
+<text x="960" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">open →</text>
+<line x1="40" y1="336" x2="960" y2="336" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img">
+<rect x="0.5" y="0.5" width="999" height="359" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<text x="40" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" letter-spacing="2.5">REPOSITORIES BY PRIMARY LANGUAGE</text>
+<text x="960" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">30 public repos</text>
+<text x="40" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">TypeScript</text>
+<rect x="200" y="49" width="470" height="14" rx="0" fill="track"></rect>
+<rect x="200" y="49" width="470" height="14" rx="0" fill="#1f2328"><animate attributeName="width" from="0" to="470" dur="0.7s" begin="0s" fill="freeze"/></rect>
+<text x="690" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">9</text>
+<text x="40" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">JavaScript</text>
+<rect x="200" y="79" width="470" height="14" rx="0" fill="track"></rect>
+<rect x="200" y="79" width="261.11111111111114" height="14" rx="0" fill="#1f2328"><animate attributeName="width" from="0" to="261.11111111111114" dur="0.7s" begin="0.09s" fill="freeze"/></rect>
+<text x="690" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">5</text>
+<text x="40" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">Python</text>
+<rect x="200" y="109" width="470" height="14" rx="0" fill="track"></rect>
+<rect x="200" y="109" width="208.88888888888889" height="14" rx="0" fill="#1f2328"><animate attributeName="width" from="0" to="208.88888888888889" dur="0.7s" begin="0.18s" fill="freeze"/></rect>
+<text x="690" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">4</text>
+<text x="40" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">HTML / CSS</text>
+<rect x="200" y="139" width="470" height="14" rx="0" fill="track"></rect>
+<rect x="200" y="139" width="261.11111111111114" height="14" rx="0" fill="#1f2328"><animate attributeName="width" from="0" to="261.11111111111114" dur="0.7s" begin="0.27s" fill="freeze"/></rect>
+<text x="690" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">5</text>
+<text x="40" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">C#</text>
+<rect x="200" y="169" width="470" height="14" rx="0" fill="track"></rect>
+<rect x="200" y="169" width="52.22222222222222" height="14" rx="0" fill="#1f2328"><animate attributeName="width" from="0" to="52.22222222222222" dur="0.7s" begin="0.36s" fill="freeze"/></rect>
+<text x="690" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">1</text>
+<text x="40" y="212" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">Dart</text>
+<rect x="200" y="199" width="470" height="14" rx="0" fill="track"></rect>
+<rect x="200" y="199" width="52.22222222222222" height="14" rx="0" fill="#1f2328"><animate attributeName="width" from="0" to="52.22222222222222" dur="0.7s" begin="0.44999999999999996s" fill="freeze"/></rect>
+<text x="690" y="212" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#1f2328">1</text>
+<text x="40" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" letter-spacing="2.5">CONTRIBUTIONS · LAST 12 MONTHS</text>
+<text x="960" y="240" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#59636e" text-anchor="end">peak 12 in 2024-08</text>
+<rect x="40" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0s" fill="freeze"/></rect>
+<text x="73.33333333333334" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">01</text>
+<rect x="116.66666666666667" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0.05s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0.05s" fill="freeze"/></rect>
+<text x="150" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">02</text>
+<rect x="193.33333333333334" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0.1s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0.1s" fill="freeze"/></rect>
+<text x="226.66666666666669" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">03</text>
+<rect x="270" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0.15000000000000002s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0.15000000000000002s" fill="freeze"/></rect>
+<text x="303.3333333333333" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">04</text>
+<rect x="346.6666666666667" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0.2s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0.2s" fill="freeze"/></rect>
+<text x="380" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">05</text>
+<rect x="423.33333333333337" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0.25s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0.25s" fill="freeze"/></rect>
+<text x="456.6666666666667" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">06</text>
+<rect x="500" y="271" width="66.66666666666667" height="39" rx="0" fill="#1f2328" opacity="0.85"><animate attributeName="height" from="0" to="39" dur="0.6s" begin="0.30000000000000004s" fill="freeze"/><animate attributeName="y" from="310" to="271" dur="0.6s" begin="0.30000000000000004s" fill="freeze"/></rect>
+<text x="533.3333333333334" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">07</text>
+<rect x="576.6666666666667" y="258" width="66.66666666666667" height="52" rx="0" fill="#1f2328" opacity="0.85"><animate attributeName="height" from="0" to="52" dur="0.6s" begin="0.35000000000000003s" fill="freeze"/><animate attributeName="y" from="310" to="258" dur="0.6s" begin="0.35000000000000003s" fill="freeze"/></rect>
+<text x="610.0000000000001" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">08</text>
+<rect x="653.3333333333334" y="275.3333333333333" width="66.66666666666667" height="34.666666666666664" rx="0" fill="#1f2328" opacity="0.85"><animate attributeName="height" from="0" to="34.666666666666664" dur="0.6s" begin="0.4s" fill="freeze"/><animate attributeName="y" from="310" to="275.3333333333333" dur="0.6s" begin="0.4s" fill="freeze"/></rect>
+<text x="686.6666666666667" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">09</text>
+<rect x="730" y="275.3333333333333" width="66.66666666666667" height="34.666666666666664" rx="0" fill="#1f2328" opacity="0.85"><animate attributeName="height" from="0" to="34.666666666666664" dur="0.6s" begin="0.45s" fill="freeze"/><animate attributeName="y" from="310" to="275.3333333333333" dur="0.6s" begin="0.45s" fill="freeze"/></rect>
+<text x="763.3333333333334" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">10</text>
+<rect x="806.6666666666667" y="271" width="66.66666666666667" height="39" rx="0" fill="#1f2328" opacity="0.85"><animate attributeName="height" from="0" to="39" dur="0.6s" begin="0.5s" fill="freeze"/><animate attributeName="y" from="310" to="271" dur="0.6s" begin="0.5s" fill="freeze"/></rect>
+<text x="840.0000000000001" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">11</text>
+<rect x="883.3333333333334" y="308" width="66.66666666666667" height="2" rx="0" fill="#1f2328" opacity="0.18"><animate attributeName="height" from="0" to="2" dur="0.6s" begin="0.55s" fill="freeze"/><animate attributeName="y" from="310" to="308" dur="0.6s" begin="0.55s" fill="freeze"/></rect>
+<text x="916.6666666666667" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#59636e" text-anchor="middle">12</text>
+<line x1="40" y1="345" x2="960" y2="345" stroke="#d0d7de" stroke-width="1" opacity="0.5"/>
+</svg>

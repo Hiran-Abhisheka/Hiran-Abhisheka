@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img">
+<rect x="0.5" y="0.5" width="999" height="109" rx="0" fill="none" stroke="#d0d7de" stroke-width="1"></rect>
+<text x="40" y="44" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="2">STATUS</text>
+<text x="40" y="68" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#1f2328">open to opportunities &amp; collaboration</text>
+<text x="460" y="44" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="2">LOCATION</text>
+<text x="460" y="68" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#1f2328">Sri Lanka · GMT+5:30</text>
+<text x="700" y="44" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#59636e" letter-spacing="2">LAST UPDATED</text>
+<text x="700" y="68" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#1f2328">2026-10-17</text>
+<circle cx="850" cy="62" r="4" fill="#1f2328" opacity="1"/>
+<text x="864" y="66" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#59636e">available</text>
+</svg>

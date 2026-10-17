@@ -1,83 +1,36 @@
 <div align="center">
 
-<img src="https://github.com/Hiran-Abhisheka.png?size=140" alt="Hiran Abhisheka" width="140" height="140" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Hiran Abhisheka — software engineering student and front-end developer"/></picture>
 
-# Hiran Abhisheka
-
-**Front-End Developer · Software Engineering Student · Sri Lanka 🇱🇰**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Building+interfaces+for+the+web;Always+learning+something+new" alt="Typing SVG" />
-
-[![Profile views](https://komarev.com/ghpvc/?username=Hiran-Abhisheka&color=0d1117&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/Hiran-Abhisheka)
+<a href="https://hiranabhisheka.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square" alt="Portfolio"/></picture></a>
+<a href="https://linkedin.com/in/hiran-abhisheka-3bb78b303"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square" alt="LinkedIn"/></picture></a>
+<a href="https://instagram.com/mr_lofyy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square" alt="Instagram"/></picture></a>
+<a href="https://discord.gg/abhi3218"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DISCORD-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/DISCORD-ffffff?style=flat-square" alt="Discord"/></picture></a>
+<a href="https://github.com/Hiran-Abhisheka"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square" alt="GitHub"/></picture></a>
 
 </div>
 
----
-
-## About
-
-Software engineering undergraduate at **NSBM Green University** with a focus on front-end development. I care about clean interfaces, good UX, and writing code that's a pleasure to read.
-
-I've spent the last year building web projects with modern JavaScript tooling — and I'm always picking up something new.
-
-<sub>🔭 Working on a [personal portfolio](https://hiranabhisheka.netlify.app/) · 🌱 Currently learning TypeScript & Next.js · 💬 Ask me about front-end & UI/UX</sub>
-
----
-
-## Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Hiran Abhisheka"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Repository ecosystem by domain"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — selected work"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Selected projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Repositories by language and contributions per month"/></picture>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="Developer telemetry — contributions, streaks and active days"/></picture>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,c,csharp" alt="Languages & Backend" />
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,photoshop" alt="Databases & Tools" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=Hiran-Abhisheka&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://activity-graph.vercel.app/graph?username=Hiran-Abhisheka&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Education and build history"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status and availability"/></picture>
 
-## GitHub at a glance
-
-<div align="center">
-
-<!-- Overview: totals, commits, PRs, issues -->
-<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiran-Abhisheka&theme=github_dark" alt="Profile details" />
-
-<!-- Row 2 -->
-<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiran-Abhisheka&theme=github_dark" alt="Stats" />
-<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiran-Abhisheka&theme=github_dark" alt="Most commit language" />
-
-<!-- Row 3 -->
-<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiran-Abhisheka&theme=github_dark" alt="Repos per language" />
-<img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiran-Abhisheka&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-
-<!-- Streak -->
-<img width="700" src="https://streak-stats.demolab.com?user=Hiran-Abhisheka&theme=dark&hide_border=true&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=767676" alt="GitHub streak" />
-
-<!-- Contribution activity -->
-<img width="830" src="https://activity-graph.vercel.app/graph?username=Hiran-Abhisheka&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## Elsewhere
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiran-abhisheka-3bb78b303)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mr_lofyy)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/abhi3218)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat&logo=googlechrome&logoColor=A9FEF7)](https://hiranabhisheka.netlify.app/)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with ☕ and curiosity · Thanks for stopping by</sub>
-
-  <img src="https://komarev.com/ghpvc/?username=Hiran-Abhisheka&color=A9FEF7&label=VISITORS&labelColor=0d1117" alt="Visitor count" />
-</div>
+<!-- one responsive picture per visual; regenerate with: node scripts/generate-assets.mjs -->

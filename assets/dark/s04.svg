@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img">
+<text x="4" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="34" font-weight="700" fill="#8b949e" opacity="0.5">04</text>
+<text x="64" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#f0f6fc" letter-spacing="3">TELEMETRY</text>
+<line x1="64" y1="50" x2="996" y2="50" stroke="#30363d" stroke-width="1"/>
+</svg>
